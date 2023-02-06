@@ -1,0 +1,2 @@
+No local changes to save
+git stash save "Stashing file1.txt" file1.txt
